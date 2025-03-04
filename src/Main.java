@@ -7,5 +7,7 @@ public class Main {
         System.out.println(bmw);
 
         System.out.println(audi);
+
+        System.out.println("My dream car " + bmw.getMarka() + " " + bmw.getModel());
     }
 }
